@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-
-
-@author: omert
-"""
 
 # Koşullu İfadeler; ":" bir blok açıldığını temsil eder. İntendetion(boşluk) kurallarına dikkat etmemiz gerkir
 # her bloğun 4 space içermesi best practice dir
