@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#deneme ekleme
 # Koşullu İfadeler; ":" bir blok açıldığını temsil eder. İntendetion(boşluk) kurallarına dikkat etmemiz gerkir
 # her bloğun 4 space içermesi best practice dir
 if True:
